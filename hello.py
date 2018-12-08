@@ -1,5 +1,5 @@
 for i in range(1,10+1):
     if i % 2 == 0:
-        print("Hello")
+        print("Yes We love even")
     else:
-        print("It works on subdim!")
+        print("Oops Odds")
